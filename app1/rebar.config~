@@ -1,2 +1,0 @@
-{deps, [app2]}.
-{deps_dir, ".."}.
